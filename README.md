@@ -1,4 +1,4 @@
-# Projeto 1 - Globo.com
+# Projeto #01 - Globo.com
 
 Primeiro projeto realizado na Turma 9 da Driven. O projeto foi aplicar o layout de uma versão simplificada da home da [Globo.com](https://globo.com) utilizando HTML e CSS. O layout foi fornecido em um projeto do figma com instruções para facilitar o desenvolvimento. 
 
